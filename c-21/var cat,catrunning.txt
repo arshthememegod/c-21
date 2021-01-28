@@ -1,0 +1,23 @@
+var cat,catrunning
+var mouse
+
+
+function preload(){
+cat.addAnimation("cat")
+mouse.addAnimation("mouse)
+
+}
+function setup(){
+createCanvas(800,400)
+
+
+
+}
+function draw(){
+
+
+
+}
+function catrunning(){
+    if(keyCode===LEFT_ARROW)
+}
